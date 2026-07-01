@@ -53,14 +53,6 @@ Pharmacy e-commerce built with a 4-person team. Full-stack, from data model to s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=francoamarilla&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoamarilla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 📫 Get in touch
 
