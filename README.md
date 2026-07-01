@@ -57,4 +57,4 @@ Pharmacy e-commerce built with a 4-person team. Full-stack, from data model to s
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-maximiliano-amarilla-6bbb892b3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franco24amarilla@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=franco24amarilla@gmail.com)
