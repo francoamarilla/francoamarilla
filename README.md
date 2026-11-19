@@ -16,7 +16,7 @@ En producción en un estudio jurídico de Córdoba (etapa piloto). Sincroniza au
 **[Ver demo en vivo](https://francoamarilla.github.io/causario-demo/login)** · Repositorio privado (código disponible a pedido)
  
 ### [Sticky Fingers](https://github.com/francoamarilla/StickyFingers) — sistema de pedidos para una hamburguesería
-Estuvo en producción para un local real: carta y checkout para clientes, y panel de gestión con pedidos en tiempo real, ofertas e informes de ventas.
+Desarrollado para una hamburguesería real (no llegó a usarse en producción): carta y checkout para clientes, y panel de gestión con pedidos en tiempo real, ofertas e informes de ventas.
 `Java 21` · `Spring Boot 3` · `Spring Security + JWT` · `WebSocket (STOMP)` · `Angular` · `PostgreSQL` · `Docker`
  
 ### [Pura Crema](https://github.com/francoamarilla/PC_Dashboard-) — gestión para un emprendimiento de reventa de ropa
