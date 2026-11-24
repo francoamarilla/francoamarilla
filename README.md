@@ -14,7 +14,7 @@ Legal management platform featuring automated synchronization of judicial case u
 
 **Stack:** Java 21, Spring Boot, Angular, Electron, PostgreSQL, Flyway, GitHub Actions.
 
-[Live Demo](https://francoamarilla.github.io/causario-demo/) · Private source code
+[Public Showcase](https://github.com/francoamarilla/causario-showcase) · [Live Demo](https://francoamarilla.github.io/causario-demo/) · Private source code
 
 ### Recepta — AI-Powered Appointment Management
 
